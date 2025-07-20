@@ -2,7 +2,7 @@ import google.generativeai as genai
 import re
 
 # 🔐 Configure Gemini
-genai.configure(api_key="YOUTR_API_KEY_HERE")
+genai.configure(api_key="YOUR_API_KEY_HERE")
 model = genai.GenerativeModel("gemini-2.5-pro")
 
 def generate_script(prompt):
