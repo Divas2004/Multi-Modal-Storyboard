@@ -12,7 +12,6 @@ This Streamlit app takes a text prompt as input and generates a **4-scene cinema
 - Generates high-quality storyboard images.
 - Converts storyboards into short cinematic video clips.
 - Fully interactive via a Streamlit web interface.
-- Displays everything in real-time with progress bars and estimated time.
 
 ---
 
